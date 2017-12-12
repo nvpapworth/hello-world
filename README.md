@@ -1,6 +1,5 @@
 # hello-world
-Neil's first test repository
 
-Well now I'm making some updates.
+Updated now from the Pi, just trying it out.
 
-Let's see how it goes !
+Second Pi update
